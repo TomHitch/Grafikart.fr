@@ -1,5 +1,3 @@
-/*
-
  // Les opérateurs de comparaison
  // > Supérieur
  // < Inférieur
@@ -66,5 +64,3 @@ if (result < 0) {
 } else {
       alert("Le resultat de la multiplication est " + result + ", c'est un nombre positif")
 }
-
-*/

@@ -30,5 +30,6 @@ const heroes = [
 ]
 
 for (let name of heroes) { // Ne marche que pour les tableaux []
-      console.log(name)
+      //console.log(name)
+      console.log(name.prenom) // Pour afficher uniquement les prénoms du tableau d'objet
 }

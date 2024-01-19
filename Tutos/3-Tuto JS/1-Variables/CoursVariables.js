@@ -1,5 +1,3 @@
-/*
-
 const a = 15 // constante de type number
 let b = "bonjour" // variable de type string
 const c = "la famille" // constante de type string
@@ -34,5 +32,3 @@ if (test1 = 15) {
 }
 console.log(test1) // Ici test1 s'affiche car il est en dehors des acolades pareil pour const
 console.log(test2) // Ici test2 ne s'affiche pas pareil pour const
-
-*/
