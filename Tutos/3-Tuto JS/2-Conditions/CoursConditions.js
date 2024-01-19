@@ -1,11 +1,13 @@
-/* Les opérateurs de comparaison
-> Supérieur
-< Inférieur
->= Supérieur ou égal
-< = Inférieur ou égal
-=== Strictement égal
-!== Différent
-*/ 
+/*
+
+ // Les opérateurs de comparaison
+ // > Supérieur
+ // < Inférieur
+ // >= Supérieur ou égal
+ // < = Inférieur ou égal
+ // === Strictement égal
+ // !== Différent
+
 const age = 17
 
 if (age < 18) {
@@ -14,11 +16,11 @@ if (age < 18) {
       console.log("vous êtes majeur")
 } 
 
-/* Les opérateur logiques
-&& Et
-|| Ou (option + shift + L)
-! Différents
-*/
+ // Les opérateur logiques
+ // && Et
+ // || Ou (option + shift + L)
+ // ! Différents
+ 
 const pays = "US"
 const peuxConduireEnFrance = pays === "FR" && age >= 18
 const peuxConduireAuxUSA = pays === "US" && age >= 16
@@ -64,3 +66,5 @@ if (result < 0) {
 } else {
       alert("Le resultat de la multiplication est " + result + ", c'est un nombre positif")
 }
+
+*/
